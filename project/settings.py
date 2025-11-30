@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django_celery_results",
+    "project.apps.page_to_pdf"
 ]
 
 MIDDLEWARE = [
