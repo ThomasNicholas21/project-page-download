@@ -1,5 +1,6 @@
 # personal
 __localcode__
+.vscode
 
 # Django #
 *.log
